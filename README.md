@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Naveen Soni
 
 -🚀 About Me
 
@@ -17,7 +17,7 @@
 
 -Languages: Python, JavaScript (learning)
 
--Tools: PyroIDE 3 (for Python coding), Git, GitHub
+-Tools: PyroIDE 3 (for Python coding), Git, GitHub, Vs_code
 
 
 🎯 Goals
