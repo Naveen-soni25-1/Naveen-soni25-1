@@ -2,7 +2,7 @@
 
 -🚀 About Me
 
--🖥️ Self-learning Python and JavaScript through books
+-🖥️ Self-learning Python and DSA through books
 
 -🎯 Aspiring Software Engineer with a goal to work in Japan
 
@@ -15,9 +15,9 @@
 
 🔧 Tech Stack
 
--Languages: Python, JavaScript (learning)
+-Languages: Python(learning), other language after python
 
--Tools: PyroIDE 3 (for Python coding), Git, GitHub, Vs_code
+-Tools: PydroIDE 3 (for Python coding), Git, GitHub, Vs_code
 
 
 🎯 Goals
