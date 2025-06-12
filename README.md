@@ -10,7 +10,7 @@
 
 -📚 Interests: Web novels, anime, and movies
 
--💡 Currently Exploring: Data Structures & Algorithms, Web Development
+-💡 Currently Exploring: Data Structures & Algorithms, python libraries, data science
 
 
 🔧 Tech Stack
