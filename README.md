@@ -17,7 +17,7 @@
 
 -Languages: Python(learning), other language after python
 
--Tools: PydroIDE 3 (for Python coding), Git, GitHub, Vs_code
+-Tools: Pydroid 3 (mobile application), Git, GitHub, Vs_code
 
 
 🎯 Goals
