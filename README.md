@@ -8,14 +8,14 @@
 
 -🛠️ Building simple projects as I learn new concepts
 
--📚 Interests: Web novels, anime, and movies
+-📚 Interests: novels, reading, learning and movies
 
 -💡 Currently Exploring: Data Structures & Algorithms, python libraries
 
 
 🔧 Tech Stack
 
--Languages: Python(learning), other language after python
+-Languages: Python(learning),
 
 -Tools: Pydroid 3 (mobile application), Git, GitHub, Vs_code
 
